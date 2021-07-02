@@ -1,0 +1,15 @@
+{
+    "name": "phamhai0601/nganluong-v2",
+    "description": "Ngan luong",
+	"type": "library",
+	"license": "MIT",
+    "require": {
+        "php": ">=7.0",
+        "another-vendor/package": "1.*"
+    },
+	"autoload": {
+        "psr-4": {
+            "NL_Checkout\\": "lib/"
+        }  
+    }
+}
