@@ -6,6 +6,7 @@
 * 		và một chuỗi ký tự gọi là mật khẩu giao tiếp.
 *		Người dùng không thể tự động sửa được giá trị tham số giao tiếp giữa website của bạn và NgânLượng.vn nếu như không biết chính xác tham số bạn đã lưu và mật khẩu giao tiếp là gì. 
 **/
+namespace NganLuong;
 
 class NL_Checkout 
 {
